@@ -1,0 +1,2 @@
+# budster
+An AI companion
